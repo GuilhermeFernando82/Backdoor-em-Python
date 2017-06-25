@@ -1,0 +1,7 @@
+1°Baixe o ngrok e crie conta no ngrok: //site do ngrok: https://ngrok.com
+2°Depois copia o arquivo executável do ngrok para pasta system32 caso for linux mova para pasta (bin)
+3°Depois abre o cmd como administrador ou o terminal no caso se for linux // e digita o token que o ngrok gerou.
+4°Depois digita o comando: ngrok tcp 4444
+3°Baixe o netcat // https://eternallybored.org/misc/netcat/
+4°Mova o netcat para pasta system32, caso for linux baixe e instale a versão para linux
+5°Colaca o netcat na escuta // nc -lvp 4444
